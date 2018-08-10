@@ -1,0 +1,75 @@
+body{
+	background-color: #FFFFFF;
+	font-family: Helvetica;
+}
+nav {
+	background-color: #E24E42;
+	padding: 5px;
+	shape-margin: 
+	text-decoration-color: white;
+
+}
+h1{
+	color: #FFFFFF;
+	font-family: Helvetica;
+	display: inline;
+	padding-left: 30px;
+	padding-right: 100px;
+	
+}
+ul.nav{
+	list-style: none;
+	padding:0; 
+	text-decoration: none;
+
+}
+ul.nav li{
+	display: inline; 
+	text-decoration: none;
+	text-decoration-color: white;
+	padding-left: 100px;
+
+	
+}
+a{
+	text-decoration: none;
+	color: white;
+	padding:10px;
+
+}
+a:hover{
+	background-color: #E9B000;
+
+	}
+.sphere{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+	border: 3px  #b2b2b2;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    background: url(https://media.licdn.com/dms/image/C5603AQGvu9J1wkJ-_w/profile-displayphoto-shrink_200_200/0?e=1536192000&v=beta&t=LQTw2HEtKvq-bDuCk0UrhbyuS8hzTXx2sxWXDuyyAZk);
+
+}
+h2{
+	color: #008F95;
+	margin: 50px;
+	text-align: center;
+	display: block;
+	padding: 10px;
+
+}
+.skills{
+	margin-left: 20px;
+	margin-right: 20px;
+	padding-bottom: 10px;
+	float: left;
+	display: inline;
+}
+p{
+	margin: 50px;
+	border-style: dotted; color: #E9B000;
+}
+}

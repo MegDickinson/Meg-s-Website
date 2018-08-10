@@ -1,0 +1,110 @@
+/*div{
+	height: 200px;
+	width: 200px;
+	border: 2px solid black;
+	background: url("fbprofile.jpg");
+	background-size: contain;
+	display: inline-block;
+}*/
+body{
+	background-color: #FFFFFF;
+	font-family: Helvetica;
+	/*background: url("fbprofile.jpg");*/
+	/*background: url("IMG_5045.JPG");*/
+}
+nav {
+	background-color: #E24E42;
+	padding: 5px;
+	shape-margin: 
+	text-decoration-color: white;
+
+}
+h1{
+	color: #FFFFFF;
+	font-family: Helvetica;
+	display: inline;
+	padding-left: 30px;
+	padding-right: 100px;
+	
+}
+ul.nav{
+	list-style: none;
+	padding:0; 
+	text-decoration: none;
+
+}
+ul.nav li{
+	display: inline; 
+	text-decoration: none;
+	text-decoration-color: white;
+	padding-left: 100px;
+
+	
+}
+a{
+	text-decoration: none;
+	color: white;
+	padding:10px;
+
+}
+
+img{
+	width: 200px;
+	height: 200px;
+
+}
+
+th{
+	color: #E9B000;
+	font-family: Helvetica;
+	font-size: 5em
+	text-align: center;
+	padding: 25px
+}
+td{
+	font-family: Helvetica;
+	text-align: center;
+	padding: 25px;
+	color: #f18973;
+	font-size: 2em
+
+}
+table{
+	width: 60%
+	color:#E9B000;
+
+}
+@media (max-width: 760px){
+
+	img{
+	width: 100px;
+	height: 100px;
+
+}
+
+th{
+	color: #EB6E80;
+	font-family: Helvetica;
+	font-size: 5em
+	text-align: center;
+	padding: 25px
+}
+td{
+	font-family: Helvetica;
+	text-align: center;
+	padding: 25px;
+	color: #f18973;
+	font-size: 2em
+
+}
+table{
+	width: 60%
+
+}
+
+
+
+
+
+
+
