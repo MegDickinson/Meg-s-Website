@@ -54,7 +54,7 @@ a:hover{
 
 }
 h2{
-	color: #008F95;
+	color: #EB6E80;
 	margin: 50px;
 	text-align: center;
 	display: block;
@@ -64,12 +64,35 @@ h2{
 .skills{
 	margin-left: 20px;
 	margin-right: 20px;
+	display: inline-block;
+	padding-bottom: 50px;
+	color: #008F95; 
+}
+.knowledge{
+	margin-left: 80px;
+	margin-right: 20px;
 	padding-bottom: 10px;
-	float: left;
-	display: inline;
+	display: inline-block;
+	width: 40%;
+	color: #008F95; 
 }
 p{
 	margin: 50px;
-	border-style: dotted; color: #E9B000;
+	border-style: dotted; color: #E9B000; padding: 10px;
+	font-color: gray;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
 }
 }
